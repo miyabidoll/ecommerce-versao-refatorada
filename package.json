@@ -22,5 +22,11 @@
     "prisma": "^6.0.0",
     "tsx": "^4.7.0",
     "typescript": "^5.3.0"
+  },
+  "allowScripts": {
+    "@prisma/client@6.19.1": true,
+    "@prisma/engines@6.19.1": true,
+    "esbuild@0.27.1": true,
+    "prisma@6.19.1": true
   }
 }
